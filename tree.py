@@ -1,5 +1,3 @@
-from priorities import NodoArvore
-
 class NodoArvore:
     def __init__(self, pergunta=None, cor_resultado=None):
         self.pergunta = pergunta       # Pergunta feita ao usuário
